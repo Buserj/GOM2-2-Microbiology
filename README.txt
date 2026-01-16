@@ -1,7 +1,7 @@
 GitHub for useful scripts in analyzing the UT GOM2-2 2023 Expedition Microbiological Data
 Buser-Young et al., In Prep. JGR Biogeosciences
 
-Raw sequencing data can be found at NCBI Repository Number XXX and were analyzed using QIIME2 v.2024.5.
+Raw sequencing data can be found at NCBI Repository Number PRNJ1222992 and were analyzed using QIIME2 v.2024.5.
 
 
 **Phylogenetic_Analysis.R**
